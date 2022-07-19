@@ -13,9 +13,6 @@
 	<version>SNAPSHOT</version>
 	<name>student-management-system</name>
 	<description>Student Management System with Spring Boot</description>
-	<properties>
-		<java.version>18</java.version>
-	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
